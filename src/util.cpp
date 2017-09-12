@@ -985,13 +985,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\playwincoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\playwincoin
-    // Mac: ~/Library/Application Support/playwincoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Playwincoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Playwincoin
+    // Mac: ~/Library/Application Support/Playwincoin
     // Unix: ~/.playwincoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "playwincoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Playwincoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1003,7 +1003,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "playwincoin";
+    return pathRet / "Playwincoin";
 #else
     // Unix
     return pathRet / ".playwincoin";
@@ -1209,10 +1209,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong playwincoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Playwincoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("playwincoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("Playwincoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

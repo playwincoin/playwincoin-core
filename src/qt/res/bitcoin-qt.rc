@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "playwincoin"
-            VALUE "FileDescription",    "playwincoin-Qt (OSS GUI client for playwincoin)"
+            VALUE "CompanyName",        "Playwincoin"
+            VALUE "FileDescription",    "Playwincoin-Qt (OSS GUI client for Playwincoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "playwincoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The playwincoin developers"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Playwincoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "playwincoin-qt.exe"
-            VALUE "ProductName",        "playwincoin-Qt"
+            VALUE "ProductName",        "Playwincoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

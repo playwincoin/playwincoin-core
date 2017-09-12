@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About playwincoin</source>
-        <translation>Acerca de playwincoin</translation>
+        <source>About Playwincoin</source>
+        <translation>Acerca de Playwincoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;playwincoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;playwincoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;Playwincoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Playwincoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The playwincoin developers</source>
+Copyright © 2014 The Playwincoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The playwincoin developers</translation>
+Copyright © 2014 The Playwincoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your playwincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de playwincoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your Playwincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de Playwincoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a playwincoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de playwincoin</translation>
+        <source>Sign a message to prove you own a Playwincoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Playwincoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified playwincoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de playwincoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Playwincoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Playwincoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>playwincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>playwincoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>Playwincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Playwincoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about playwincoin</source>
-        <translation>Mostrar información sobre playwincoin</translation>
+        <source>Show information about Playwincoin</source>
+        <translation>Mostrar información sobre Playwincoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a playwincoin address</source>
-        <translation>Enviar monedas a una dirección de playwincoin</translation>
+        <source>Send coins to a Playwincoin address</source>
+        <translation>Enviar monedas a una dirección de Playwincoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for playwincoin</source>
-        <translation>Modificar las opciones de configuración para playwincoin</translation>
+        <source>Modify configuration options for Playwincoin</source>
+        <translation>Modificar las opciones de configuración para Playwincoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>playwincoin</source>
-        <translation>playwincoin</translation>
+        <source>Playwincoin</source>
+        <translation>Playwincoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About playwincoin</source>
-        <translation>Acerca de playwincoin</translation>
+        <source>&amp;About Playwincoin</source>
+        <translation>Acerca de Playwincoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>playwincoin client</source>
-        <translation>Cliente playwincoin</translation>
+        <source>Playwincoin client</source>
+        <translation>Cliente Playwincoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to playwincoin network</source>
-        <translation><numerusform>%n conexión activa a la red playwincoin</numerusform><numerusform>%n conexiones activas a la red playwincoin</numerusform></translation>
+        <source>%n active connection(s) to Playwincoin network</source>
+        <translation><numerusform>%n conexión activa a la red Playwincoin</numerusform><numerusform>%n conexiones activas a la red Playwincoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -662,8 +662,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid playwincoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de playwincoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Playwincoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Playwincoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -722,8 +722,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. playwincoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. playwincoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. Playwincoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. Playwincoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1056,8 +1056,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid playwincoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de playwincoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Playwincoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Playwincoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>playwincoin-Qt</source>
-        <translation>playwincoin-Qt</translation>
+        <source>Playwincoin-Qt</source>
+        <translation>Playwincoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start playwincoin after logging in to the system.</source>
-        <translation>Iniciar playwincoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start Playwincoin after logging in to the system.</source>
+        <translation>Iniciar Playwincoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start playwincoin on system login</source>
-        <translation>&amp;Iniciar playwincoin al inicio del sistema</translation>
+        <source>&amp;Start Playwincoin on system login</source>
+        <translation>&amp;Iniciar Playwincoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the playwincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente playwincoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Playwincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente Playwincoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the playwincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de playwincoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the Playwincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de Playwincoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting playwincoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar playwincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Playwincoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Playwincoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1273,8 +1273,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show playwincoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de playwincoin en la lista de transacciones o no.</translation>
+        <source>Whether to show Playwincoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de Playwincoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1320,8 +1320,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting playwincoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar playwincoin.</translation>
+        <source>This setting will take effect after restarting Playwincoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar Playwincoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the playwincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red playwincoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Playwincoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Playwincoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1555,8 +1555,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the playwincoin-Qt help message to get a list with possible playwincoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de playwincoin-Qt para obtener una lista con las posibles opciones de línea de comandos para playwincoin.</translation>
+        <source>Show the Playwincoin-Qt help message to get a list with possible Playwincoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de Playwincoin-Qt para obtener una lista con las posibles opciones de línea de comandos para Playwincoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,13 +1575,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>playwincoin - Debug window</source>
-        <translation>playwincoin - Ventana de depuración</translation>
+        <source>Playwincoin - Debug window</source>
+        <translation>Playwincoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>playwincoin Core</source>
-        <translation>Núcleo playwincoin</translation>
+        <source>Playwincoin Core</source>
+        <translation>Núcleo Playwincoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,8 +1590,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the playwincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de playwincoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the Playwincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de Playwincoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the playwincoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de playwincoin</translation>
+        <source>Welcome to the Playwincoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,8 +1759,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección playwincoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Playwincoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid playwincoin address</source>
-        <translation>ADVERTENCIA: Dirección playwincoin inválida</translation>
+        <source>WARNING: Invalid Playwincoin address</source>
+        <translation>ADVERTENCIA: Dirección Playwincoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1933,8 +1933,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección playwincoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Playwincoin (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1994,8 +1994,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this playwincoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección playwincoin.</translation>
+        <source>Sign the message to prove you own this Playwincoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección Playwincoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,8 +2026,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified playwincoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección playwincoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Playwincoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Playwincoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección playwincoin (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección Playwincoin (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter playwincoin signature</source>
-        <translation>Introduce la firma playwincoin</translation>
+        <source>Enter Playwincoin signature</source>
+        <translation>Introduce la firma Playwincoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2618,8 +2618,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>playwincoin version</source>
-        <translation>versión playwincoin</translation>
+        <source>Playwincoin version</source>
+        <translation>versión Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2681,8 +2681,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22339 or testnet: 32339)</source>
-        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 22339 o testnet: 32339)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 23011 or testnet: 33011)</source>
+        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 23011 o testnet: 33011)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2741,8 +2741,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22340 or testnet: 32340)</source>
-        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 22340 o testnet: 32340)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 23012 or testnet: 33012)</source>
+        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 23012 o testnet: 33012)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2809,8 +2809,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong playwincoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo playwincoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Playwincoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Playwincoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Playwincoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
@@ -3017,7 +3017,7 @@ rpcpassword=%s
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;Playwincoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3149,13 +3149,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  playwincoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. playwincoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Playwincoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. Playwincoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>playwincoin</source>
-        <translation>playwincoin</translation>
+        <source>Playwincoin</source>
+        <translation>Playwincoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of playwincoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de playwincoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Playwincoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart playwincoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie playwincoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart Playwincoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie Playwincoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. playwincoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. playwincoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. Playwincoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. Playwincoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

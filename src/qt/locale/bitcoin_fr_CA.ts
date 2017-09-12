@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About playwincoin</source>
-        <translation>Au sujet de playwincoin</translation>
+        <source>About Playwincoin</source>
+        <translation>Au sujet de Playwincoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;playwincoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;playwincoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Playwincoin&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Playwincoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The playwincoin developers</source>
+Copyright © 2014 The Playwincoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs playwincoin</translation>
+Copyright © 2014 Les développeurs Playwincoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your playwincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Playwincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a playwincoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse playwincoin</translation>
+        <source>Sign a message to prove you own a Playwincoin address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Playwincoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified playwincoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse playwincoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Playwincoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Playwincoin spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos playwincoins</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos Playwincoins</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>playwincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application playwincoin va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Playwincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Playwincoin va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about playwincoin</source>
-        <translation>Afficher des informations au sujet du playwincoin</translation>
+        <source>Show information about Playwincoin</source>
+        <translation>Afficher des informations au sujet du Playwincoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a playwincoin address</source>
-        <translation>Envoyer des monnaies vers une adresse playwincoin</translation>
+        <source>Send coins to a Playwincoin address</source>
+        <translation>Envoyer des monnaies vers une adresse Playwincoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for playwincoin</source>
-        <translation>Modification des options de configuration de playwincoin</translation>
+        <source>Modify configuration options for Playwincoin</source>
+        <translation>Modification des options de configuration de Playwincoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>playwincoin</source>
-        <translation>playwincoin</translation>
+        <source>Playwincoin</source>
+        <translation>Playwincoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About playwincoin</source>
-        <translation>A propos de playwincoin</translation>
+        <source>&amp;About Playwincoin</source>
+        <translation>A propos de Playwincoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>playwincoin client</source>
-        <translation>Client playwincoin</translation>
+        <source>Playwincoin client</source>
+        <translation>Client Playwincoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to playwincoin network</source>
-        <translation><numerusform>%n connexion active au réseau playwincoin</numerusform><numerusform>%n connexions actives au réseau playwincoin</numerusform></translation>
+        <source>%n active connection(s) to Playwincoin network</source>
+        <translation><numerusform>%n connexion active au réseau Playwincoin</numerusform><numerusform>%n connexions actives au réseau Playwincoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid playwincoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille playwincoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Playwincoin address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Playwincoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. playwincoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application playwincoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. Playwincoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Playwincoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid playwincoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse playwincoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Playwincoin address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Playwincoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>playwincoin-Qt</source>
-        <translation>playwincoin-Qt</translation>
+        <source>Playwincoin-Qt</source>
+        <translation>Playwincoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start playwincoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client playwincoin lors de la connexion au système</translation>
+        <source>Automatically start Playwincoin after logging in to the system.</source>
+        <translation>Démarrage automatique du client Playwincoin lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start playwincoin on system login</source>
-        <translation>&amp;Démarrage du client playwincoin à la connexion au système</translation>
+        <source>&amp;Start Playwincoin on system login</source>
+        <translation>&amp;Démarrage du client Playwincoin à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the playwincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de playwincoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Playwincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de Playwincoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the playwincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau playwincoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the Playwincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau Playwincoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting playwincoin.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application playwincoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Playwincoin.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application Playwincoin</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show playwincoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses playwincoin au sein de la liste de transactions</translation>
+        <source>Whether to show Playwincoin addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses Playwincoin au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting playwincoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client playwincoin</translation>
+        <source>This setting will take effect after restarting Playwincoin.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Playwincoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the playwincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau playwincoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Playwincoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Playwincoin mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the playwincoin-Qt help message to get a list with possible playwincoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide playwincoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande playwincoin</translation>
+        <source>Show the Playwincoin-Qt help message to get a list with possible Playwincoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide Playwincoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Playwincoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>playwincoin - Debug window</source>
-        <translation>playwincoin - Fenêtre de déboggage</translation>
+        <source>Playwincoin - Debug window</source>
+        <translation>Playwincoin - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>playwincoin Core</source>
-        <translation>playwincoin Core</translation>
+        <source>Playwincoin Core</source>
+        <translation>Playwincoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the playwincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug playwincoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Playwincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Playwincoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the playwincoin RPC console.</source>
-        <translation>Bienvenue sur la console playwincoin RPC.</translation>
+        <source>Welcome to the Playwincoin RPC console.</source>
+        <translation>Bienvenue sur la console Playwincoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid playwincoin address</source>
-        <translation>AVERTISSEMENT: Adresse playwincoin Invalide</translation>
+        <source>WARNING: Invalid Playwincoin address</source>
+        <translation>AVERTISSEMENT: Adresse Playwincoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse playwincoin Invalide</translation>
+        <translation>AVERTISSEMET: Adresse Playwincoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse Playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this playwincoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse playwincoin</translation>
+        <source>Sign the message to prove you own this Playwincoin address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Playwincoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified playwincoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse playwincoin spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified Playwincoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Playwincoin spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Playwincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Playwincoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter playwincoin signature</source>
-        <translation>Entrer une signature playwincoin</translation>
+        <source>Enter Playwincoin signature</source>
+        <translation>Entrer une signature Playwincoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>playwincoin version</source>
-        <translation>Version playwincoin</translation>
+        <source>Playwincoin version</source>
+        <translation>Version Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2676,8 +2676,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22339 or testnet: 32339)</source>
-        <translation>Écouter les connexions sur le &lt;port&gt; (default: 22339 or testnet: 32339)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 23011 or testnet: 33011)</source>
+        <translation>Écouter les connexions sur le &lt;port&gt; (default: 23011 or testnet: 33011)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2736,8 +2736,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22340 or testnet: 32340)</source>
-        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (default: 22340 or testnet: 32340)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 23012 or testnet: 33012)</source>
+        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (default: 23012 or testnet: 33012)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2801,8 +2801,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong playwincoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. playwincoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Playwincoin will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Playwincoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2997,7 +2997,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;playwincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Playwincoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
@@ -3008,7 +3008,7 @@ rpcpassword=%s
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte playwincoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Playwincoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte playwincoin&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  playwincoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application playwincoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  Playwincoin is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Playwincoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>playwincoin</source>
-        <translation>playwincoin</translation>
+        <source>Playwincoin</source>
+        <translation>Playwincoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte playwincoin&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of playwincoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application playwincoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Playwincoin</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart playwincoin to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application playwincoin</translation>
+        <source>Wallet needed to be rewritten: restart Playwincoin to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Playwincoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte playwincoin&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. playwincoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application playwincoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Playwincoin is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Playwincoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

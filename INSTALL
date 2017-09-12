@@ -1,9 +1,9 @@
-Building playwincoin
+Building Playwincoin
 
-See doc/readme-qt.rst for instructions on building playwincoin QT,
+See doc/readme-qt.rst for instructions on building Playwincoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of playwincoin.
+implementation of Playwincoin.
 
 See doc/build-*.txt for instructions on building playwincoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of playwincoin.
+implementation of Playwincoin.

@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            # Headless playwincoin
 
-See readme-qt.rst for instructions on building playwincoin QT,
+See readme-qt.rst for instructions on building Playwincoin QT,
 the graphical playwincoin.
 
 Dependencies
